@@ -13,7 +13,7 @@ In this lab, I outline the essential configuration steps required to make osTick
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10 Pro</b> (21H2)
+- Windows 10 Pro</b> 
 
 
 <h2>Configuration Steps</h2>

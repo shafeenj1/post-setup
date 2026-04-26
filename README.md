@@ -55,7 +55,7 @@ A new Level II Support Team should be set up to complement the existing Level I 
 
 </p>
 <p>
-New agents will have to be created so they can take tickets that come to the queue. To create new agents, enter the Admin panel and open the Agents menu. Click on Add New Agent and create the account credentials for each new agent. In this case, Jane and John Doe are created.
+New agents need to be set up so they can handle tickets from the queue. To do this, go to the Admin panel and navigate to the Agents section. Select “Add New Agent,” then enter the login details for each person. In this example, accounts are created for Jane and John Doe.
 </p>
 <br />
 

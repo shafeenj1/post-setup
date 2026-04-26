@@ -19,7 +19,8 @@ In this lab, I outline the essential configuration steps required to make osTick
 <h2>Setup Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/S33TPEZ.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img width="1786" height="881" alt="image" src="https://github.com/user-attachments/assets/efc2992b-0d52-4ad4-ae0f-2648e5e57eb5" />
+
 <img src="https://i.imgur.com/7HyoONM.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>

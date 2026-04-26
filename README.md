@@ -40,7 +40,8 @@ After that, set up a new department specifically for System Administrators. Go t
 <br />
 
 <p>
-<img src="https://i.imgur.com/d7WuRn8.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img width="1301" height="713" alt="image" src="https://github.com/user-attachments/assets/c9978a1b-d118-4625-bf77-8ec9aa56954e" />
+
 </p>
 <p>
 A new Level II Support Team will have to be created to supplement the Level I Support Team already made within osTicket. To create a new Team, enter the Admin panel and open the Agents menu. Click on Teams and add any new teams that need to be created.

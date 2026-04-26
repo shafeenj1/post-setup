@@ -79,10 +79,11 @@ Service Level Agreements (SLAs) need to be established to classify tickets based
 <br />
 
 <p>
-<img src="https://i.imgur.com/v3zTkfy.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img width="1277" height="704" alt="image" src="https://github.com/user-attachments/assets/1e19a4b6-a437-4b1d-9ca4-0f1f1cf70b6d" />
+
 </p>
 <p>
-Finally, Help Topics need to be created to help users select an appropriate category that describes their problem so that Agents get an idea of what problem is described in the ticket. To make a new Help Topic, enter the Admin panel and open the Manage menu. Click on Help Topics and click on Add New Help Topic. In this case, I have added the following in order to use later for when I create new tickets to resolve: Business Critical Outage, Personal Computer Issues, Equipment Reset, and Password Request.
+Help Topics should be set up to guide users in choosing the category that best matches their issue, giving Agents a clearer understanding of the problem described in each ticket. To create a new Help Topic, go to the Admin panel, open the Manage menu, select Help Topics, and click on “Add New Help Topic.” For example, the following topics were created for future ticket use: Business Critical Outage, Personal Computer Issues, Equipment Reset, and Password Request.
 </p>
 <br />
 

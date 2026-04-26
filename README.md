@@ -32,7 +32,8 @@ To begin, create a new role called Supreme Admin. For this exercise, the role sh
 <br />
 
 <p>
-<img src="https://i.imgur.com/EQnl5rh.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img width="3470" height="1916" alt="image" src="https://github.com/user-attachments/assets/300d4bf8-ac4a-417f-bdd0-c1ebe3b9643c" />
+
 </p>
 <p>
 Next, a new Department will be created for System Administrators. In the Admin panel, open the Agents menu and click on Departments to create a new Department within osTicket.

@@ -16,7 +16,7 @@ In this lab, I outline the essential configuration steps required to make osTick
 - Windows 10 Pro</b> 
 
 
-<h2>Configuration Steps</h2>
+<h2>Setup Steps</h2>
 
 <p>
 <img src="https://i.imgur.com/S33TPEZ.png" height="80%" width="80%" alt="Configuration Steps"/>

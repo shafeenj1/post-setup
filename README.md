@@ -60,7 +60,8 @@ New agents need to be set up so they can handle tickets from the queue. To do th
 <br />
 
 <p>
-<img src="https://i.imgur.com/gHvbfS3.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img width="1725" height="912" alt="image" src="https://github.com/user-attachments/assets/c25394c2-69b1-4474-bd31-52d612536602" />
+
 </p>
 <p>
 New users will be created so they can create tickets so that the agents can receive and triage them. To create new users, enter the Agents panel and open the Users menu. Click on Add User and create the account credentials necessary for each new user. In this case, Karen and Ken have been created.

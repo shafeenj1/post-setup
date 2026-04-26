@@ -89,4 +89,4 @@ Help Topics should be set up to guide users in choosing the category that best m
 
 <h2>osTicket Configurations are Complete </h2>
 
-Now that the configurations have been set in place, I can now utilize osTicket as a proper ticketing system. I can create tickets and be able to traige them as if I were in a real environment.
+With the configurations complete, I’m now able to use osTicket as a fully functional ticketing system. I can create tickets and triage them just as I would in a real-world environment.

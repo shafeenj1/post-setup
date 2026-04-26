@@ -1,5 +1,6 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img width="598" height="244" alt="image" src="https://github.com/user-attachments/assets/5c8d616f-b45f-42d8-b3fc-8e0e158505ee" />
+
 </p>
 
 <h1>osTicket - Post-Install Configurations</h1>

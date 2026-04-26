@@ -4,8 +4,7 @@
 </p>
 
 <h1>osTicket – Post-Setup Settings</h1>
-This lab demonstrates the necessary changes I make to configure osTicket so it can be used as a proper ticketing system.<br />
-
+In this lab, I outline the essential configuration steps required to make osTicket operate effectively as a ticketing system.
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)

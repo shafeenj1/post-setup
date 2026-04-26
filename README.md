@@ -64,7 +64,7 @@ New agents need to be set up so they can handle tickets from the queue. To do th
 
 </p>
 <p>
-New users will be created so they can create tickets so that the agents can receive and triage them. To create new users, enter the Agents panel and open the Users menu. Click on Add User and create the account credentials necessary for each new user. In this case, Karen and Ken have been created.
+New users need to be set up so they can submit tickets, which agents will then receive and prioritize. To add users, go to the Agents panel, open the Users section, and select “Add User.” From there, enter the required account details for each person. In this example, accounts have been created for Karen and Ken.
 </p>
 <br />
 

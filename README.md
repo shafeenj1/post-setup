@@ -25,9 +25,9 @@ In this lab, I outline the essential configuration steps required to make osTick
 
 </p>
 <p>
-After installing osTicket, it is now time to make configurations to use it as a ticketing system. One thing to note is that I switch between Admin and Agent panels as each panel has different configurations. To tell which panel is used, look at the top right of the osTicket screen. If it reads Agent Panel, the Admin panel is the one being used and vice versa.
+After installing osTicket, the next step is to configure it so it can function as a ticketing system. Keep in mind that you’ll be switching between the Admin and Agent panels, since each one contains different settings. You can tell which panel you’re currently in by checking the top-right corner of the screen—if it says “Agent Panel,” you’re in the Admin panel, and if it says “Admin Panel,” you’re in the Agent panel.
 
-The first step to take is to make a new role called Supreme Admin. For the purposes of this lab, I am intentionally creating a role that has every permission that can be granted. To create a new role, open the Admin panel enter the Agents Menu. Click on Roles and create the new role from there.
+To begin, create a new role called Supreme Admin. For this exercise, the role should be given full permissions across the system. To do this, go to the Admin panel, navigate to the Agents section, select Roles, and then create the new role there.
 </p>
 <br />
 

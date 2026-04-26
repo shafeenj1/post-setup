@@ -21,7 +21,8 @@ In this lab, I outline the essential configuration steps required to make osTick
 <p>
 <img width="1786" height="881" alt="image" src="https://github.com/user-attachments/assets/efc2992b-0d52-4ad4-ae0f-2648e5e57eb5" />
 
-<img src="https://i.imgur.com/7HyoONM.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img width="1298" height="682" alt="image" src="https://github.com/user-attachments/assets/03dba62e-2026-408d-8886-a34676970f7e" />
+
 </p>
 <p>
 After installing osTicket, it is now time to make configurations to use it as a ticketing system. One thing to note is that I switch between Admin and Agent panels as each panel has different configurations. To tell which panel is used, look at the top right of the osTicket screen. If it reads Agent Panel, the Admin panel is the one being used and vice versa.

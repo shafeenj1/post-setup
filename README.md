@@ -69,7 +69,8 @@ New users need to be set up so they can submit tickets, which agents will then r
 <br />
 
 <p>
-<img width="1281" height="701" alt="image" src="https://github.com/user-attachments/assets/de3d9588-78b3-49fc-96dd-edeb432af9f7" />
+<img width="1302" height="698" alt="image" src="https://github.com/user-attachments/assets/c7bf7110-eeb1-4f23-b78a-3f993b9bcba6" />
+ 
  
 
 </p>

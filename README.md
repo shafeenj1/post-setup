@@ -87,6 +87,6 @@ Help Topics should be set up to guide users in choosing the category that best m
 </p>
 <br />
 
-<h2>osTicket Configurations are Complete </h2>
+<h2>The osTicket setup is now fully complete. </h2>
 
-With the configurations complete, I’m now able to use osTicket as a fully functional ticketing system. I can create tickets and triage them just as I would in a real-world environment.
+Now that everything is configured, I can use osTicket as a fully operational ticketing system, allowing me to create and triage tickets just like in a real-world setting.
